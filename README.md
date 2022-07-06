@@ -3,6 +3,9 @@ Examen de empleados en Python
 
 Para poder realizar esta proyecto se deben de poner en marcha los siguientes pasos:
 
+# Librerias que se necesitaron
+* pip install json
+* pip install requests
 
 # Paso 1. Desde la linea de consola se debe de poner el siguiente comando para poner clonarlo.
 git clone https://github.com/Dianamarlen12/Python.git
