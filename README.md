@@ -15,6 +15,7 @@ Ejemplo de como se debe mostrarse.
 
 Paso 3. Cuando se ejecute el archivo debera mostrarse los datos que contiene el archivo
 
+
 Paso 4. Verificar si el proyecto cuenta con el archivo txt
 Ejemplo
 ![image](https://user-images.githubusercontent.com/50559771/177461709-5a100712-7832-4c9d-81e5-4ac4a4d18491.png)
